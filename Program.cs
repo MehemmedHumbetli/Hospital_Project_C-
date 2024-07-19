@@ -21,6 +21,7 @@ class Program
         Console.WriteLine(" [3] Doctor's list");
         Console.WriteLine(" [4] Wiew Patients");
         Console.WriteLine(" [5] Delete Patient");
+        Console.WriteLine(" [0] Back");
     }
     
     static void Department_Menu()
